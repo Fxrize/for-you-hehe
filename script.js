@@ -51,7 +51,7 @@ var confetti = new ConfettiGenerator(confettiSettings);
 confetti.render();
 
  let p = document.createElement("p");
- p.innerText = "Yeayyy, kamu membuat keputusan yang tepat!!! 🎉 \nDM aku dan buat jadwalnya, hehe 😉";
+ p.innerText = "Yeayyy, kamu membuat keputusan yang tepat!!! 🎉 \nI love you too <3";
   p.style.fontSize = "2rem";
   p.style.fontWeight = "bold";
   p.style.textAlign = "center";
